@@ -26,7 +26,7 @@ namespace 随机数生成器_点名器_
 
         private void SoureCodeLink_Click(object sender, RoutedEventArgs e)
         {
-            System.Diagnostics.Process.Start("https://github.com/hello-orange/-");
+            System.Diagnostics.Process.Start("https://github.com/hello-orange/Random-Number-Generator");
         }
     }
 }
