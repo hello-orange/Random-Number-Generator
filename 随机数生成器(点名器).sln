@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "随机数生成器(点名器)", "随机数生成器(点名器)\随机数生成器(点名器).csproj", "{7D0C9CD0-F0C5-4F5B-A9AA-BA5C69709F38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D0C9CD0-F0C5-4F5B-A9AA-BA5C69709F38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D0C9CD0-F0C5-4F5B-A9AA-BA5C69709F38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D0C9CD0-F0C5-4F5B-A9AA-BA5C69709F38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D0C9CD0-F0C5-4F5B-A9AA-BA5C69709F38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1B8F327-7605-423B-B813-1FC9DAE0D199}
+	EndGlobalSection
+EndGlobal

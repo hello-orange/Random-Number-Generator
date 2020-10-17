@@ -1,0 +1,16 @@
+﻿<Window x:Class="随机数生成器_点名器_.SettingsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:随机数生成器_点名器_"
+        mc:Ignorable="d"
+        Title="Settings" Height="312" Width="407" ResizeMode="CanMinimize" Loaded="Window_Loaded" Icon="Icon.png">
+    <Grid>
+        <Button x:Name="SaveButton" Content="Save" HorizontalAlignment="Left" Height="27" Margin="284,240,0,0" VerticalAlignment="Top" Width="91" Click="SaveButton_Click"/>
+        <Button x:Name="AboutButton" Content="About" HorizontalAlignment="Left" Height="27" Margin="10,0,0,15" VerticalAlignment="Bottom" Width="50" RenderTransformOrigin="0.508,-1.489" Click="AboutButton_Click"/>
+        <TextBlock HorizontalAlignment="Left" Height="25" Margin="10,14,0,0" TextWrapping="Wrap" Text="Default Range" VerticalAlignment="Top" Width="105"/>
+        <TextBox x:Name="DefeatRangeBox" HorizontalAlignment="Left" Height="20" Margin="100,14,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="70"/>
+
+    </Grid>
+</Window>
